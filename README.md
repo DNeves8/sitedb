@@ -81,7 +81,6 @@ Possible Improvements
 Contact
 Feel free to reach out if you have questions, suggestions, or want to contribute:
 
-- Davi Neves
 - GitHub Profile: DNeves8
 - Linkedin: https://www.linkedin.com/in/davi-neves-ba7423254/
 - daviaguiiar.neves@gmail.com
