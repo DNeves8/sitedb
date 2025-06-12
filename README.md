@@ -65,10 +65,10 @@ node server.js
 3- Fill out the form and click "Register". If everything works correctly, you will see a success message and the data will be saved in your MySQL database.
 
 Screenshot
-![image](https://github.com/user-attachments/assets/d8d0f6e7-048d-402c-b62d-99eb4e542848)
 
 
-Possible Improvements
+
+Possible Improvements![image](https://github.com/user-attachments/assets/d8d0f6e7-048d-402c-b62d-99eb4e542848)
 - Hash password using bcrypt before saving
 
 - Create login and authentication system using JWT
