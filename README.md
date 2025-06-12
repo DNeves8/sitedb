@@ -53,6 +53,7 @@ CREATE TABLE IF NOT EXISTS cliente (
   estado CHAR(2) NOT NULL,
   senha_hash VARCHAR(255) NOT NULL
 );
+
 Note: Passwords are stored as plain text for simplicity. You can use bcrypt to hash passwords securely.
 
 How to Test the Form
