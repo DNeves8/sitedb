@@ -67,8 +67,8 @@ node server.js
 Screenshot
 
 
-
-Possible Improvements![image](https://github.com/user-attachments/assets/d8d0f6e7-048d-402c-b62d-99eb4e542848)
+![image](https://github.com/user-attachments/assets/d8d0f6e7-048d-402c-b62d-99eb4e542848)
+Possible Improvements 
 - Hash password using bcrypt before saving
 
 - Create login and authentication system using JWT
@@ -80,6 +80,6 @@ Possible Improvements![image](https://github.com/user-attachments/assets/d8d0f6e
 Contact
 Feel free to reach out if you have questions, suggestions, or want to contribute:
 
-Davi Neves
-GitHub Profile: DNeves8
-daviaguiiar.neves@gmail.com
+- Davi Neves
+- GitHub Profile: DNeves8
+- daviaguiiar.neves@gmail.com
